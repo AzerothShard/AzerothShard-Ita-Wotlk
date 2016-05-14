@@ -1,0 +1,6 @@
+{
+  "name": "Azerothshard-ita-wotlk",
+  "tagline": "Repository per la community italiana della WOTLK",
+  "body": "# AzerothShard-Ita-Wotlk\r\nSpazio dedicato alla community italiana della WOTLK\r\n\r\n### BUG / ISSUE TRACKER\r\n**Per segnalare un bug utilizzare il seguente link:**\r\n\r\nhttps://github.com/AzerothShard/AzerothShard-Ita-Wotlk/issues\r\n\r\n### REPOSITORY\r\n**Vuoi contribuire allo sviluppo del server game?** \r\n\r\nInviaci una Pull Request al nostro repository pubblico:\r\n\r\nhttps://github.com/AzerothShard/AzerothCore\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
